@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><title>QRono</title><rect width="512" height="512" rx="112" fill="#FDE8D4"/><g transform="translate(-75.3,99.7) scale(0.6627)"><g><g fill="none" stroke="#EA580C" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M268 393 A232 232 0 0 1 732 393" stroke-width="34"/>
+    <path d="M500 157 V119" stroke-width="38"/>
+    <rect x="430" y="80" width="140" height="58" rx="17" fill="#EA580C" stroke="none"/>
+    <path d="M668 204 L693 176" stroke-width="30"/>
+    <path d="M687 164 L728 197" stroke-width="35"/>
+    <path d="M500 364 L608 262" stroke-width="24"/>
+  </g>
+  <circle cx="500" cy="364" r="29" fill="#16803A"/>
+  </g></g></svg>
